@@ -1,5 +1,3 @@
-[![https://i.ibb.co/gWRCTK9/4.gif](https://i.ibb.co/gWRCTK9/4.gif "https://i.ibb.co/gWRCTK9/4.gif")](https://i.ibb.co/gWRCTK9/4.gif "https://i.ibb.co/gWRCTK9/4.gif")[![https://i.ibb.co/sbQMCjH/2.gif](https://i.ibb.co/sbQMCjH/2.gif "https://i.ibb.co/sbQMCjH/2.gif")](https://i.ibb.co/sbQMCjH/2.gif "https://i.ibb.co/sbQMCjH/2.gif")[![https://i.ibb.co/bJ5VLq8/8.gif](https://i.ibb.co/bJ5VLq8/8.gif "https://i.ibb.co/bJ5VLq8/8.gif")](https://i.ibb.co/bJ5VLq8/8.gif "https://i.ibb.co/bJ5VLq8/8.gif")[![https://i.ibb.co/RHVWLFP/6.gif](https://i.ibb.co/RHVWLFP/6.gif "https://i.ibb.co/RHVWLFP/6.gif")](https://i.ibb.co/RHVWLFP/6.gif "https://i.ibb.co/RHVWLFP/6.gif") [![https://i.ibb.co/YQzyPJK/image.gif](https://i.ibb.co/YQzyPJK/image.gif "https://i.ibb.co/YQzyPJK/image.gif")](https://i.ibb.co/YQzyPJK/image.gif "https://i.ibb.co/YQzyPJK/image.gif")[![https://i.ibb.co/gWRCTK9/4.gif](https://i.ibb.co/gWRCTK9/4.gif "https://i.ibb.co/gWRCTK9/4.gif")](https://i.ibb.co/gWRCTK9/4.gif "https://i.ibb.co/gWRCTK9/4.gif")[![https://i.ibb.co/RHVWLFP/6.gif](https://i.ibb.co/RHVWLFP/6.gif "https://i.ibb.co/RHVWLFP/6.gif")](https://i.ibb.co/RHVWLFP/6.gif "https://i.ibb.co/RHVWLFP/6.gif")
-
-
-yhe ty itristian and sry ;/
-
+<p align="center">
+  <img src="https://count.getloli.com/get/@nedizin?theme=gelbooru" />
+</p>
