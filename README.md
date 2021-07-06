@@ -51,7 +51,7 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg"></code>
 
-**In the future i want to learn...
+**In the future i want to learn...**
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/c/c.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/cpp/cpp.svg"></code>
 
