@@ -1,5 +1,5 @@
 
-<h3 title="hehehe"> Hey 👋, I'm Simão aka ned!</h3>
+<h3 title="hehehe"> Ned Github</h3>
 
 </a>
 <a href="https://www.instagram.com/td_des1gns/">
