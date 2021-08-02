@@ -8,7 +8,7 @@
 <a href="https://discord.gg">
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ZamranxD&color=blueviolet" align="left">
+
 
 
 
