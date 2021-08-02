@@ -1,13 +1,4 @@
-<!-- <h3 title="hehehe"> Hi there! 👋</h3> -->
 
-<!--
-
-- 🔭 I’m currently working on my Discord Verify bot
-- 🌱 I’m currently learning Lua and PHP
-- 👯 I’m looking to collaborate on Wormly Verify Service
-- 📫 How to reach me: ned@cyberservices.com
-- ⚡ Fun fact: im fkn lazzy af
--->
 <h3 title="hehehe"> Hey 👋, I'm Simão aka ned!</h3>
 
 </a>
@@ -26,15 +17,6 @@
 
 
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**About Me!**
-
-- 🔭 I’m currently working on my Discord Verify bot
-- 🌱 I’m currently learning Lua and PHP
-- 👯 I’m looking to collaborate on Wormly Verify Service
-- 📫 How to reach me: [ned@cyberservices.com](mailto:ned@cyberservices.com).
-- ⚡ Fun fact: im lazzy af
 
 
 **Languages and Tools:**  
