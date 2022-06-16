@@ -1,4 +1,4 @@
-# im ned aka Simão Pereira
+# ned
 -
 discord - ned#9999
 -
