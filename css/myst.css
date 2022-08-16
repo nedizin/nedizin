@@ -62,7 +62,10 @@ hr.line {
 	width: 40%;
 }
 body {
-	background: #161616;
+	background: url('https://gamesense.support/images/welcome9.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
 	color: #dbdbdb;
 	font-family: monospace;
 	text-shadow: 1px 1px 8px #000
