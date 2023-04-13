@@ -1,5 +1,5 @@
 # ned
 -
-discord - ned#9999
+discord - ned#1000
 -
-email: ned@cyberfear.com
+email: nedzao@proton.me
