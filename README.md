@@ -1,6 +1,6 @@
 # ned
  just coding for fun
 
-discord - ned#1000
+discord - nedizin
 -
 email: nedzao@proton.me
