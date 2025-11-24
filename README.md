@@ -4,6 +4,7 @@
 - ⚡️ Arduino and RPI enthusiast
 
 
-discord - nedizin
+# contacts
 -
+discord - nedizin
 telegram: nedizin
