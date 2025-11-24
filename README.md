@@ -5,6 +5,5 @@
 
 
 # contacts
-
 discord: nedizin
 telegram: nedizin
