@@ -5,5 +5,5 @@
 
 
 # contacts
-discord: nedizin
-telegram: nedizin
+- discord: nedizin
+- telegram: nedizin
