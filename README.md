@@ -1,6 +1,5 @@
 # ned
-- 🏫 Electrotechnical and Automation Engineering Student
-- 🧑‍💻 I'm 18 years old and I mainly code C and Python.
+- 🏫 Computer and Informatics Engineering Student
 - ⚡️ Arduino and RPI enthusiast
 
 
